@@ -94,3 +94,8 @@ after checking that you have those things
 # THANKS
    
  - I WOULD LIKE TO THANK `valnoxy` ON GITHUB FOR PARTIALLY GIVING THE METHOD
+
+# DONATIONS
+
+- im broke pls donate
+  - `https://buymeacoffee.com/kaitanrji`
